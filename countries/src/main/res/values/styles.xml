@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+    </style>
+
+    <style name="detailStyle">
+        <item name="android:paddingLeft">20dp</item>
+    </style>
+
+    <style name="titleStyle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+
+
+    </style>
+
+
+    <style name="textStyle">
+        <item name="android:textSize">14sp</item>
+
+
+
+    </style>
+</resources>
